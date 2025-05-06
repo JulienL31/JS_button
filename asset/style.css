@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.compteur {
+    margin-top: 20px;
+    font-size: 24px;
+    color: #8844cc;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #08c3ff;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #fffa7c;
+    color: #333;
+}
